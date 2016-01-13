@@ -1,0 +1,19 @@
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Output files
+target/
+/bin/
+/default/
+/deploy/
+/logs/
+/test-temp-dir/
+/test-output/
+*.swp
+*.swo
+*.pyc
+*.hprof
+*~
+
