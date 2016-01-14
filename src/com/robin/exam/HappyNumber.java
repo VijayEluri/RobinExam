@@ -26,6 +26,7 @@ public class HappyNumber {
 		if(n <= 0) { return false; }
 		
 	    HashSet<Integer> hs = new HashSet<Integer>();
+
 	    int m = n;
 	    
 	    while(!hs.contains(m))

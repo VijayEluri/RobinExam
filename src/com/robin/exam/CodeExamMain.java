@@ -9,7 +9,7 @@ public class CodeExamMain {
 		// TODO Auto-generated method stub
 		//System.out.println("Hello World!!!");
 		
-		HappyNumber.Test();
+		BinaryTreePaths.Test();
 	}
 
 }
